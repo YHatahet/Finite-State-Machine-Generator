@@ -1,2 +1,2 @@
-# finite-state-machine-generator
+# Finite State Machine Generator
 Generate finite-state machines
